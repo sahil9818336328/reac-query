@@ -1,3 +1,10 @@
 - create a local server to handle endpoints (server code not available here.)
 - react query basics
 - features like, auto-background-refetching, caching, avoids the use of useEffect and many more.
+- create, read, update, delete functionality (data manipulation on the server using react-query)
+- useQuery - to fetch data
+- useMutation - to create, update and delete task
+- invalidate queries to show the newly updated data
+- front-end and backend both in in sync
+- code can be refactored (but, just focusting on functionality)
+- react-toastify
