@@ -6,5 +6,5 @@
 - useMutation - to create, update and delete task
 - invalidate queries to show the newly updated data
 - front-end and backend both in in sync
-- code can be refactored (but, just focusting on functionality)
+- code can be refactored (but, just focusing on functionality)
 - react-toastify
